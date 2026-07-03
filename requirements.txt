@@ -1,0 +1,10 @@
+streamlit>=1.30
+numpy
+pandas
+matplotlib
+requests
+rasterio
+shapely
+pyproj
+scikit-image
+openpyxl
